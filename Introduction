@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Group Members</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      display: flex;
+      justify-content: space-between;
+      max-width: 800px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+
+    .member {
+      width: calc(25% - 20px);
+      padding: 20px;
+      margin: 10px;
+      background-color: #ffffff;
+      border: 1px solid #e0e0e0;
+      border-radius: 5px;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s;
+    }
+
+    .member:hover {
+      transform: translateY(-5px);
+    }
+
+    .member img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .name {
+      font-weight: bold;
+      margin: 10px 0;
+      color: #333;
+    }
+
+    .position {
+      font-style: italic;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="member">
+      <img src="member1.jpg" alt="Member 1">
+      <p class="name">John Doe</p>
+      <p class="position">Project Manager</p>
+    </div>
+    <div class="member">
+      <img src="member2.jpg" alt="Member 2">
+      <p class="name">Jane Smith</p>
+      <p class="position">Designer</p>
+    </div>
+    <div class="member">
+      <img src="member3.jpg" alt="Member 3">
+      <p class="name">Robert Johnson</p>
+      <p class="position">Developer</p>
+    </div>
+    <div class="member">
+      <img src="member4.jpg" alt="Member 4">
+      <p class="name">Emily White</p>
+      <p class="position">Tester</p>
+    </div>
+  </div>
+</body>
+</html>
+
