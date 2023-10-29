@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Group Members</title>
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <title>Digital Dream Team</title>
+  <link rel="icon" href="favicon.ico" type="images/favicon.png">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -60,24 +60,24 @@
 <body>
   <div class="container">
     <div class="member">
-      <img src="member1.jpg" alt="Member 1">
-      <p class="name">John Doe</p>
+      <img src="Marion.jpg" alt="Member 1">
+      <p class="name">Marion Jones</p>
+      <p class="position">Team Lead</p>
+    </div>
+    <div class="member">
+      <img src="Nathan.jpg" alt="Member 2">
+      <p class="name">Nathan Price</p>
+      <p class="position">Database Manager and Co-Lead</p>
+    </div>
+    <div class="member">
+      <img src="Kyra.jpg" alt="Member 3">
+      <p class="name">Kyra Milton</p>
       <p class="position">Project Manager</p>
     </div>
     <div class="member">
-      <img src="member2.jpg" alt="Member 2">
-      <p class="name">Jane Smith</p>
-      <p class="position">Designer</p>
-    </div>
-    <div class="member">
-      <img src="member3.jpg" alt="Member 3">
-      <p class="name">Robert Johnson</p>
-      <p class="position">Developer</p>
-    </div>
-    <div class="member">
-      <img src="member4.jpg" alt="Member 4">
-      <p class="name">Emily White</p>
-      <p class="position">Tester</p>
+      <img src="Javonte.png" alt="Member 4">
+      <p class="name">Javonte Carter</p>
+      <p class="position">Quality Assurance</p>
     </div>
   </div>
 </body>
