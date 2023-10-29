@@ -60,22 +60,22 @@
 <body>
   <div class="container">
     <div class="member">
-      <img src="Marion.jpg" alt="Member 1">
+      <img src="images/Marion.jpg" alt="Member 1">
       <p class="name">Marion Jones</p>
       <p class="position">Team Lead</p>
     </div>
     <div class="member">
-      <img src="Nathan.jpg" alt="Member 2">
+      <img src="images/Nathan.jpg" alt="Member 2">
       <p class="name">Nathan Price</p>
       <p class="position">Database Manager and Co-Lead</p>
     </div>
     <div class="member">
-      <img src="Kyra.jpg" alt="Member 3">
+      <img src="images/Kyra.jpg" alt="Member 3">
       <p class="name">Kyra Milton</p>
       <p class="position">Project Manager</p>
     </div>
     <div class="member">
-      <img src="Javonte.png" alt="Member 4">
+      <img src="images/Javonte.png" alt="Member 4">
       <p class="name">Javonte Carter</p>
       <p class="position">Quality Assurance</p>
     </div>
